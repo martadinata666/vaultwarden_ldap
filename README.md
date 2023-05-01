@@ -1,7 +1,7 @@
 # vaultwarden_ldap
-LDAP user invites for [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+An LDAP connector for [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
-After configuring, run `vaultwarden_ldap` and it will invite any users it finds in LDAP to your `vaultwarden` instance. This is NOT a sync tool like the [Bitwarden Directory Connector](https://bitwarden.com/help/directory-sync/).
+After configuring, run `vaultwarden_ldap` and it will invite any users it finds in LDAP to your `vaultwarden` instance.
 
 ## Deploying
 
